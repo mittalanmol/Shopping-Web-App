@@ -7,6 +7,7 @@ export default defineConfig({
     port: 5176,
   },
   plugins: [react()],
+  base: "/Shopping-Web-Appd:\KG Coding React\Todo App\.github\workflows/",
   test: {
     globals: true,
     environment: "jsdom",
