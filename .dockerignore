@@ -1,0 +1,15 @@
+# Ignore node modules and logs
+node_modules
+npm-debug.log
+
+# Ignore local configuration files
+.env
+
+# Ignore version control files
+.git
+.gitignore
+
+# Ignore build and temporary files
+build/
+dist/
+coverage/
